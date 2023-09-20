@@ -1,2 +1,2 @@
 # BugReports
-Bugs reported during ongoing testing projects
+Bugs reported during ongoing testing projects. 
