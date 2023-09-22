@@ -1,2 +1,3 @@
-# BugReports
-Bugs reported during ongoing testing projects. 
+# Palia
+Bugs found during ongoing beta tests to the Palia game.
+
